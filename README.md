@@ -21,6 +21,7 @@ Split the data into training and testing sets.
 Create sequences of data for the LSTM to learn from, typically using a sliding window approach.
 <br>
 
+
 Model Building:
 <br>
 Define an LSTM model using a deep learning framework like TensorFlow or Keras.
